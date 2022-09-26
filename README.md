@@ -19,5 +19,7 @@
   ⭐ https://se-yeon.tistory.com/41 참고 ⭐
  
 ## JAVA 기초 개념 (09.26 ~)
+
+ - <a href="https://se-yeon.tistory.com/42" target="_blank">객체지향언어</a>
    
 
