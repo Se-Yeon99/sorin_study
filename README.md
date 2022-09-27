@@ -20,6 +20,6 @@
  
 ## JAVA 기초 개념 (09.26 ~)
 
- - <a href="https://se-yeon.tistory.com/42" target="_blank">객체지향언어</a>
+ - <a href="https://se-yeon.tistory.com/42" target="_blank">객체 지향 프로그래밍 </a>
    
 
