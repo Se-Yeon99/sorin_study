@@ -9,6 +9,7 @@
  
 ## git (09.19 ~ 09.20)
 
+- <a href="https://se-yeon.tistory.com/category/%EB%B0%B1%EC%97%94%EB%93%9C/Github" target="_blank">Github 정리⭐ </a>
 
 ## node.js (09.21)
 
