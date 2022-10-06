@@ -1,6 +1,7 @@
 ## 서린상사 인턴 개발자 교육 💻
 
-> 인턴기간 (22.08.18 ~ 23.02.17) 까지의 교육내용을 기록/정리합니다.
+> 인턴기간 (22.08.18 ~ 23.02.17) 동안의 교육 내용을 기록합니다.
+
 <div>
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
