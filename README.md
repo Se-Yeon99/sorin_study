@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/MicrosoftAzure-0078D4?style=for-the-badge&logo=MicrosoftAzure&logoColor=white">
+  <img src="https://img.shields.io/badge/Microsoft Azure-0078D4?style=for-the-badge&logo=MicrosoftAzure&logoColor=white">
 
 </div>
 
