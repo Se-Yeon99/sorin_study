@@ -33,9 +33,9 @@
  
 ### ✔ JAVA 기초 개념 (09.26 ~)
 
- ⭐ <a href="https://se-yeon.tistory.com/42" target="_blank">객체 지향 프로그래밍 </a>
- ⭐ <a href="https://se-yeon.tistory.com/43" target="_blank">상속</a>
- ⭐ <a href="https://se-yeon.tistory.com/46" target="_blank">예외처리</a>
+ ⭐ <a href="https://se-yeon.tistory.com/42" target="_blank">객체 지향 프로그래밍 </a> <br>
+ ⭐ <a href="https://se-yeon.tistory.com/43" target="_blank">상속</a> <br>
+ ⭐ <a href="https://se-yeon.tistory.com/46" target="_blank">예외처리</a> <br>
    
 
 ### ✔ Microsoft Azure (09.27 ~ 09. 28)
