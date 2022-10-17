@@ -13,34 +13,37 @@
 
 </div>
 
+<div>
 
-### 📖 html, css , javascript 교육 (08.31 ~ 09.08)
+### 📖 html, css , javascript 교육 
 
-- <code>회원가입 폼</code> --> 유효성 검사, localstorage를 이용한 회원가입 폼 구현
- - <code>배송지 정보 관리</code> --> 유효성 검사 , localstorage를 이용헌 배송지 정보관리와 더불어 삭제, 수정 기능까지 구현
+- **회원가입** --> <code>유효성 검사</code>, <code>localstorage</code>를 이용한 회원가입 폼 구현
+ - **배송지 정보 관리** --> <code>유효성 검사</code> , <code>localstorage</code>를 이용헌 배송지 정보관리와 더불어 삭제, 수정 기능까지 구현
  
-### 📖 git (09.19 ~ 09.20)
 
-- <a href="https://se-yeon.tistory.com/category/%EB%B0%B1%EC%97%94%EB%93%9C/Github" target="_blank">Github 정리 </a>
 
-### 📖 node.js (09.21)
+### 📖 node.js 
 
  - <a href="https://se-yeon.tistory.com/41" target="_blank">dogTest</a> --> <code>node.js</code>를 이용해서 화면에 랜덤 강아지 사진 띄우기 실습
  
    express, request, ejs를 설치해서 구현
    
+</div>
+
+### 📖 git 
+
+- <a href="https://se-yeon.tistory.com/category/%EB%B0%B1%EC%97%94%EB%93%9C/Github" target="_blank">Github 정리 </a>
   
  
-### 📖 JAVA 기초 개념 (09.26 ~)
+### 📖 JAVA 기초 개념 
 
  - <a href="https://velog.io/@yeon99/series/Java-%EA%B8%B0%EC%B4%88" target="_blank">JAVA  정리 </a> <br>
 
   
-### 📖 Microsoft Azure (09.27 ~ 09. 28)
+### 📖 Microsoft Azure 
 
 -
-### 📖 Spring boot 기초 (09.30 ~ 10. 06)
+### 📖 Spring boot 
 
 - 
-### 📖 Spring boot
--
+
