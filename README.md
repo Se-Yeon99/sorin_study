@@ -40,10 +40,7 @@
  - <a href="https://velog.io/@yeon99/series/Java-%EA%B8%B0%EC%B4%88" target="_blank">JAVA  정리 </a> <br>
 
   
-### 📖 Microsoft Azure 
+### 📖 구매 입찰 프로젝트 (10.13 ~
 
--
-### 📖 Spring boot 
 
-- 
 
